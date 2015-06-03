@@ -1,4 +1,4 @@
-# yr11sdd2015
+# computingclub2015
 
 ## Installation steps
 
@@ -20,24 +20,25 @@
   - Select **Custom**<br />
   - Click **Create**<br />
 
-4. Select the new workspace `computingclub2015`.
-5. Click **START EDITING**. Wait until loaded.
-6. In your bash shell type the following command:<br /><br />
+7. Select the new workspace `computingclub2015`.
+8. Click **START EDITING**. Wait until loaded.
+9. In your bash shell type the following command:<br /><br />
 ```
 npm install
 ```
-7. Again, in your bash shell type the following command:<br /><br />
+10. Again, in your bash shell type the following command:<br /><br />
 ```
 grunt
 ```
 
-8. Open in chrome `https://computingclub2015-{your username}.c9.io/`
-9. Find the code files in cloud 9 file explorer:<br />
+11. Open in chrome `https://computingclub2015-{your username}.c9.io/`
+12. Find the code files in cloud 9 file explorer:<br />
 ![Create new workspce](public/images/004.jpeg)
 
 
 ## Update steps
 
+###Only necessary if there are new changes to pull
 
 1. logon to <a href="https://c9.io" target="_blank">c9.io</a>
 2. Select the new workspace `yr11sdd2015`.
