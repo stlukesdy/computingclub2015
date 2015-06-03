@@ -12,13 +12,14 @@
 5. Select `Clone From URL`<br />
   ![Create new workspce](public/images/002.jpeg)<br />
 6. Paste the following url: 
-```
-  https://github.com/stlukesdy/computingclub2015.git
-```
+    ```
+      https://github.com/stlukesdy/computingclub2015.git
+    ```
 
-  - Select Workspace Privacy: **Open and Discoverable**<br />
-  - Select **Custom**<br />
-  - Click **Create**<br />
+    - Select Workspace Privacy: **Open and Discoverable**<br />
+    - Select **Custom**<br />
+    - Click **Create**<br />
+
 
 7. Select the new workspace `computingclub2015`.
 8. Click **START EDITING**. Wait until loaded.
