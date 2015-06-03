@@ -24,13 +24,13 @@
 7. Select the new workspace `computingclub2015`.
 8. Click **START EDITING**. Wait until loaded.
 9. In your bash shell type the following command:<br /><br />
-```
-npm install
-```
+    ```
+    npm install
+    ```
 10. Again, in your bash shell type the following command:<br /><br />
-```
-grunt
-```
+    ```
+    grunt
+    ```
 
 11. Open in chrome `https://computingclub2015-{your username}.c9.io/`
 12. Find the code files in cloud 9 file explorer:<br />
