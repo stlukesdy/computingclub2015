@@ -42,7 +42,7 @@
 ###Only necessary if there are new changes to pull
 
 1. logon to <a href="https://c9.io" target="_blank">c9.io</a>
-2. Select the new workspace `yr11sdd2015`.
+2. Select the new workspace `computingclub2015`.
 3. Click **START EDITING**. Wait until loaded.
 4. Open new Terminal Alt-T (Window --> New Terminal).
 5. In your new terminal bash shell type the following command:`git pull`
